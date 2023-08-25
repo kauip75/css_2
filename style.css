@@ -1,0 +1,22 @@
+#details{
+    text-align:center;
+    background-color: #DDDA00 ;
+    width: 250px;
+    height:200px;
+    padding:10px;
+}
+.servis_title_1{
+    background-color:blue;
+    border:2px solid blue;
+    color: white;
+    padding:0 20px;
+    height: 25px;
+    line-height: 15px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 10px;
+}
+#price{
+    color:crimson;
+    padding-top: 25px;
+}
